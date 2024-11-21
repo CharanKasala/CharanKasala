@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharanKasala
 - 👀 I’m interested in technology, innovation, and creative problem-solving
-- 🌱 I’m currently learning Generative AI
+- 🌱 I’m currently learning Generative AI and exploring its applications
 - 💞️ I’m looking to collaborate on  Innovative tech solutions
 - 📫 You can reach me at ckasala7@gmail.com
 
